@@ -5,7 +5,10 @@
 
 ## 示例截图
 
-<img src="#" width="1101" height="555"/>
+<img src="https://github.com/starsworld/QueryUI/blob/master/images/a.png"/>
+<img src="https://github.com/starsworld/QueryUI/blob/master/images/b.png"/>
+<img src="https://github.com/starsworld/QueryUI/blob/master/images/c.png"/>
+<img src="https://github.com/starsworld/QueryUI/blob/master/images/d.png"/>
 
 
 ## 项目运行
